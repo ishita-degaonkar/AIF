@@ -73,7 +73,7 @@ print("Shortest Path:")
 
 
 
-It uses:
+It used in:
 f(n) = g(n) + h(n)
 Where:
 g(n) = actual cost from the start node to the current node
