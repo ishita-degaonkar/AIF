@@ -26,3 +26,8 @@ if solve(graph, colors, 0, 3):
     print("Color assignment:", colors)
 else:
     print("No solution exists")
+
+
+
+OUTPUT:
+Color assignment: [1, 2, 3, 1]
